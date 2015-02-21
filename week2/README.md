@@ -28,6 +28,7 @@ and you can't use so many plugins.
 
 File type relates to compression way, lossy or not. ZIP is not lossy but MP3 is.
 Stereo sound cause left and right sound. So there are two files for one sound, interleaved file is contains both in single file.
+Broadcast wave format (BWF) is best, AAFF or WAV are better.
 
 Major tools
 
