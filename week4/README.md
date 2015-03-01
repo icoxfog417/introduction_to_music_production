@@ -75,7 +75,7 @@ Dynamic processors are rule-based gain controls. The major parameters are the sa
 
 ## Dynamic Processor Parameters
 
-![dynamic processors parameters](./week4/dynamic_processors_parameters.PNG)
+![dynamic processors parameters](./dynamic_processors_parameters.PNG)
 
 * analyze: take some sample (envelope) and calculate RMS.
 * respond: control volume fader
@@ -87,7 +87,7 @@ it have to be set based on the input signal. Because quiet play never hit the th
 * attack: how fast the fader moves or the volume changes at the beginning of the sound when sound crosses the threshold. 
 * release: how fast the fader moves or the volume changes when the signal crosses back through the threshold.
 
-![ratio](./week4/ratio.PNG)
+![ratio](./ratio.PNG)
 
 * neef: to give the function gradually
 * look ahead: delay imposed on the signal
