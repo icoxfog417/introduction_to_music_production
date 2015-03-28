@@ -76,12 +76,12 @@ To send/receive data, MIDI use "message".
 There are various type of message.
 
 * Channel message: data to one of the channels
-** channel voice: note of/off, velocity, ...
-** channel mode: to set the channel status (Omni/mono/poly mode)...
+ * channel voice: note of/off, velocity, ...
+ * channel mode: to set the channel status (Omni/mono/poly mode)...
 * System message: 
-** system common
-** system real-time
-** system exclusive
+ * system common
+ * system real-time
+ * system exclusive
 
 * synthesizer: create sound
 * sampler: playback real sound
